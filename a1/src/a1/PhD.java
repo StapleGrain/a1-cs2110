@@ -6,7 +6,8 @@ public class PhD {
   /** the (String) name of the person with a PhD */
   private String name;
     
-  /** the (int) month PhD was awarded. int 1 ... 12, January being 1, etc.
+  /** the (int) month PhD was awarded. int 1 ... 12, January being 1, etc. */
+  private 
   
 
 }
