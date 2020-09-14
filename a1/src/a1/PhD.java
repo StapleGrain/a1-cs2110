@@ -7,11 +7,12 @@ public class PhD {
   private String name;
 
   /** the (int) month PhD was awarded. int 1 ... 12, January being 1, etc. */
-  private Integer month;
+  private int month;
 
   /** the (int) year PhD was awarded. Must be >1000. */
-  private Integer year;
-  
+  private int year;
+
+  /** the 
 
 
 }
