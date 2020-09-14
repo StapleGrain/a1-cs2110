@@ -5,6 +5,8 @@ package a1;
 public class PhD {
   /** the name of the person with a PhD */
   private String name;
+  /  
+  private int month;
   
   
 
