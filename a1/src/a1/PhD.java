@@ -12,7 +12,7 @@ public class PhD {
   /** the (int) year PhD was awarded. Must be >1000. */
   private int year;
 
-  /** the 
+  /** the (
 
 
 }
